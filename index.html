@@ -6,16 +6,16 @@ export default function PakistanStudiesDashboard() {
   const weeks = [
     { id: 1, title: "Week 1", description: "Indus Valley Civilization" },
     { id: 2, title: "Week 2", description: "Pakistani Culture and Society" },
-    { id: 3, title: "Week 3", description: "Process of Constitution Making in Pakistan 1947-1954" },
-    { id: 4, title: "Week 4", description: "Theories of Origin of State" },
+    { id: 3, title: "Week 3", description: "Process of Constitution Making in Pakistan (1947–1954)" },
+    { id: 4, title: "Week 4", description: "Origin of the State & Enlightenment Thought" },
     { id: 5, title: "Week 5", description: "Democracy in Pakistan" },
   ];
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-green-200 via-green-300 to-green-400 p-6">
-      <header className="text-center mb-8">
-        <h1 className="text-4xl sm:text-5xl font-bold text-green-900 mb-1 font-serif"><strong>SS 1015</strong></h1>
-        <h2 className="text-2xl sm:text-3xl font-extrabold text-green-900 uppercase tracking-wide"><strong>PAKISTAN STUDIES</strong></h2>
+      <header className="text-center mb-6">
+        <h1 className="text-5xl font-bold text-green-900 mb-1 font-serif"><strong>SS 1015</strong></h1>
+        <h2 className="text-3xl font-extrabold text-green-900 uppercase tracking-wide"><strong>PAKISTAN STUDIES</strong></h2>
         <div className="mt-4">
           <input
             type="search"
@@ -45,14 +45,14 @@ export default function PakistanStudiesDashboard() {
           ))}
         </main>
       ) : (
-        <div className="bg-white shadow-xl rounded-2xl p-6">
+        <div className="bg-white shadow-xl rounded-2xl p-6 max-w-5xl mx-auto">
           {activeWeek === 1 && (
             <div>
-              <h2 className="text-2xl sm:text-3xl font-bold text-green-900 mb-4">🏛️ Week 1: The Indus Valley Civilization (IVC)</h2>
-              <section className="text-base sm:text-lg text-gray-700 space-y-4">
+              <h2 className="text-3xl font-bold text-green-900 mb-4">🏛️ Week 1: The Indus Valley Civilization (IVC)</h2>
+              <section className="text-lg text-gray-700 space-y-4">
                 <p>The IVC, or Harappan Civilization (c. 3300–1300 BCE), stands as one of the world's original cradles of civilization and South Asia's earliest urban culture. It was primarily located in modern Pakistan, centered on the Indus River system.</p>
 
-                <h3 className="font-semibold text-green-800">🗺️ Geography and Urban Centers</h3>
+                <h3>🗺️ Geography and Urban Centers</h3>
                 <p>The civilization's massive extent stretched from Baluchistan to Uttar Pradesh and from Afghanistan to Gujarat, relying on the Indus River and its major tributaries (Jhelum, Chenab, Ravi, Beas, Sutlej).</p>
                 <ul className="list-disc list-inside">
                   <li>Harappa (Punjab): A critical northern urban center.</li>
@@ -60,15 +60,15 @@ export default function PakistanStudiesDashboard() {
                   <li>Lothal: An important site showing clear evidence of maritime trade.</li>
                 </ul>
 
-                <h3 className="font-semibold text-green-800">🏗️ Civic Life and Urban Planning</h3>
+                <h3>🏗️ Civic Life and Urban Planning</h3>
                 <p>The IVC is defined by its unparalleled civic planning, suggesting a strong, centralized administrative authority focused on public welfare.</p>
-                <p className="font-semibold">Architecture and Standardization</p>
+                <p><strong>Architecture and Standardization</strong></p>
                 <ul className="list-disc list-inside">
                   <li>Grid System: Cities were built on meticulous grid systems with planned streets and neighborhood blocks.</li>
                   <li>Dual Structure: Major cities featured a Citadel (raised, likely for administration or ritual) and a Lower Town (residential area).</li>
                   <li>Uniformity: Construction relied on universally sized fired bricks, along with standardized weights and measures across the civilization.</li>
                 </ul>
-                <p className="font-semibold">Public Health Engineering</p>
+                <p><strong>Public Health Engineering</strong></p>
                 <ul className="list-disc list-inside">
                   <li>The IVC possessed the world's earliest known advanced urban sanitation systems.</li>
                   <li>Domestic Systems: Most houses included private wells and toilets.</li>
@@ -76,25 +76,25 @@ export default function PakistanStudiesDashboard() {
                   <li>Public Facilities: Major civic installations like the Great Bath in Mohenjo-Daro highlight an emphasis on ritual and public hygiene.</li>
                 </ul>
 
-                <h3 className="font-semibold text-green-800">💼 Economy and Society</h3>
+                <h3>💼 Economy and Society</h3>
                 <p>Harappan society was specialized, supported by a regulated economy and extensive trade networks.</p>
-                <p className="font-semibold">Economic Base</p>
+                <p><strong>Economic Base</strong></p>
                 <ul className="list-disc list-inside">
                   <li>Agriculture: The foundation was farming, primarily cultivating wheat and barley.</li>
                   <li>Craft Specialization: High degrees of skill were shown in bead-making (using carnelian), metallurgy (copper/bronze casting), pottery, and seal carving.</li>
                 </ul>
-                <p className="font-semibold">Trade and Administration</p>
+                <p><strong>Trade and Administration</strong></p>
                 <ul className="list-disc list-inside">
                   <li>Regulated Commerce: The use of standardized weights, measures, and steatite seals indicates robust administrative control over trade.</li>
                   <li>Long-Distance Trade: The IVC maintained vital commercial links with Mesopotamia, Iran, and Central Asia, exporting finished goods (seals, beads) and importing raw materials (metals, lapis lazuli, cedar).</li>
                 </ul>
-                <p className="font-semibold">Social Structure</p>
+                <p><strong>Social Structure</strong></p>
                 <ul className="list-disc list-inside">
                   <li>Housing: Dwellings ranged from two-room units to larger multi-room structures, but the variation in size was modest, suggesting limited extreme social inequality compared to other ancient empires.</li>
                   <li>Occupations: The urban population consisted of specialized artisans, merchants, and warehouse workers.</li>
                 </ul>
 
-                <h3 className="font-semibold text-green-800">🎭 Art, Culture, and Script</h3>
+                <h3>🎭 Art, Culture, and Script</h3>
                 <p>The IVC left behind a rich artistic heritage, although its deepest beliefs remain inferred due to the undeciphered script.</p>
                 <ul className="list-disc list-inside">
                   <li>Seals: Thousands of steatite seals featuring detailed animal motifs and short inscriptions were used for identification, administrative, and possibly ritual purposes.</li>
@@ -103,7 +103,7 @@ export default function PakistanStudiesDashboard() {
                   <li>Indus Script: The short inscriptions found on seals and pottery remain undeciphered, leaving the details of their governance and religion largely a mystery.</li>
                 </ul>
 
-                <h3 className="font-semibold text-green-800">📉 Theories of Decline (c. 1900–1300 BCE)</h3>
+                <h3>📉 Theories of Decline (c. 1900–1300 BCE)</h3>
                 <p>The collapse of the highly urbanized Harappan phase was a prolonged event, attributed to a combination of environmental and socio-political stresses leading to de-urbanization.</p>
                 <ul className="list-disc list-inside">
                   <li><strong>Climate Variability and Drought:</strong> Palaeoclimate data indicates periods of severe aridity and the weakening of the monsoon system. This fundamentally stressed the large-scale irrigated agriculture needed to support huge cities by reducing river flow and surface moisture.</li>
@@ -113,9 +113,6 @@ export default function PakistanStudiesDashboard() {
                   <li><strong>Socio-Political Reorganization:</strong> The internal breakdown of centralized coordination (for urban upkeep and water distribution) due to sustained environmental pressure caused a gradual, non-catastrophic de-urbanization as populations dispersed and adopted smaller, more pastoral/rural lifestyles.</li>
                   <li><strong>Disease and Conflict:</strong> Isolated evidence suggests periods of localized violence or widespread epidemics at certain sites, contributing to the abandonment of specific settlements, though this is not considered the primary cause of the overall collapse.</li>
                 </ul>
-
-                <h3 className="font-semibold text-green-800">Cultural Transition & Legacy</h3>
-                <p>After urban decline, the region saw increased rural/pastoral settlement and later cultural layers (early Vedic horizon). Harappan motifs, seals and artifacts remained culturally significant and are central to Pakistan’s ancient heritage; several sites are UNESCO-recognised and continue to be important archaeological resources.</p>
               </section>
 
               <div className="mt-6">
@@ -126,9 +123,9 @@ export default function PakistanStudiesDashboard() {
 
           {activeWeek === 2 && (
             <div>
-              <h2 className="text-2xl sm:text-3xl font-bold text-green-900 mb-4">🕌 Week 2: Pakistani Culture and Society</h2>
-              <section className="text-base sm:text-lg text-gray-700 space-y-4">
-                <h3 className="font-semibold">🌍 Understanding Culture</h3>
+              <h2 className="text-3xl font-bold text-green-900 mb-4">🕌 Week 2: Pakistani Culture and Society</h2>
+              <section className="text-lg text-gray-700 space-y-4">
+                <h3>🌍 Understanding Culture</h3>
                 <p><strong>Definition:</strong> Culture is the learned, shared, and symbolic way of life of a people.</p>
                 <p><strong>Types:</strong></p>
                 <ul className="list-disc list-inside">
@@ -143,11 +140,12 @@ export default function PakistanStudiesDashboard() {
                 </ul>
                 <p><strong>Functions:</strong> Shapes identity, social cohesion, everyday practices (dress, festivals, ceremonies).</p>
 
-                <h3 className="font-semibold">🏞️ Layers of Pakistani Culture</h3>
+                <h3>🏞️ Layers of Pakistani Culture</h3>
                 <p><strong>Historical Influences:</strong> Indus Valley roots → Aryan migrations → Persian & Greek contacts → Islamic era (from 8th century) → Delhi Sultanate → Mughal synthesis → British colonial changes → Pakistan Movement & Independence (1947).</p>
                 <p><strong>Cultural Blend:</strong> Indigenous traditions + Islamic framework + Persian/Central Asian + Mughal + colonial legacies.</p>
 
-                <h3 className="font-semibold">🏘️ Pakistani Society: Features</h3>
+                <h3>🏘️ Pakistani Society: Features</h3>
+                <p><strong>Social Structure:</strong></p>
                 <ul className="list-disc list-inside">
                   <li>Strong extended family networks.</li>
                   <li>Dominant role of religion in values and institutions.</li>
@@ -156,11 +154,11 @@ export default function PakistanStudiesDashboard() {
                 <p><strong>Change:</strong> Urbanization and modern education transforming traditional patterns while preserving core customs.</p>
                 <p><strong>Institutions:</strong> Education, media, religion, and law shape culture and national identity.</p>
 
-                <h3 className="font-semibold">🗣️ Linguistic Heritage</h3>
+                <h3>🗣️ Linguistic Heritage</h3>
                 <p><strong>National Language:</strong> Urdu → lingua franca, rooted in Persian, Arabic, and local dialects.</p>
                 <p><strong>Regional Languages:</strong> Punjabi, Sindhi, Pashto, Balochi, Saraiki, Hindko → preserve local identity and literature.</p>
 
-                <h3 className="font-semibold">🎉 Traditions and Customs</h3>
+                <h3>🎉 Traditions and Customs</h3>
                 <ul className="list-disc list-inside">
                   <li>Life-cycle rituals: Birth, marriage, death.</li>
                   <li>Festivals: Islamic (Eid) and regional (Basant).</li>
@@ -168,35 +166,35 @@ export default function PakistanStudiesDashboard() {
                   <li>Values: Hospitality, communal meals, and ritual observances central to social life.</li>
                 </ul>
 
-                <h3 className="font-semibold">🎭 Arts and Aesthetics</h3>
+                <h3>🎭 Arts and Aesthetics</h3>
                 <p><strong>Visual Arts:</strong> Islamic calligraphy, miniature painting, Mughal & Islamic architecture.</p>
                 <p><strong>Performing Arts:</strong> Qawwali, regional folk music, classical traditions.</p>
                 <p><strong>Crafts:</strong> Carpets, pottery, embroidery, truck art → both artistic and economic significance.</p>
 
-                <h3 className="font-semibold">📚 Education and Socialization</h3>
+                <h3>📚 Education and Socialization</h3>
                 <p><strong>Role of Education:</strong> Transmits civic values, religion, cultural narratives.</p>
                 <p><strong>Institutions:</strong> Madrasas, schools, universities all contribute to identity formation.</p>
                 <p><strong>Modern Impact:</strong> Media and digital platforms broaden knowledge but can create conflict between tradition and modernity.</p>
 
-                <h3 className="font-semibold">🏛️ Political System and Society</h3>
+                <h3>🏛️ Political System and Society</h3>
                 <p>Pakistan: formally a federal parliamentary state, but historically practiced centralization.</p>
                 <p>Politics, law, and constitution shape cultural policies, resource distribution, and identity.</p>
 
-                <h3 className="font-semibold">⚡ Social Change and Modernization</h3>
+                <h3>⚡ Social Change and Modernization</h3>
                 <p><strong>Drivers:</strong> Urbanization, technology, modern education.</p>
                 <p><strong>Impact:</strong> Expands opportunities but risks cultural erosion.</p>
                 <p><strong>Challenge:</strong> Balance continuity of traditions with adaptation to change.</p>
 
-                <h3 className="font-semibold">💻 Science, Technology, and Cultural Change</h3>
+                <h3>💻 Science, Technology, and Cultural Change</h3>
                 <p><strong>Digital Revolution:</strong> Internet, smartphones → transform communication, education, and commerce.</p>
                 <p><strong>Policy Needs:</strong> Ensure inclusivity and safeguard cultural heritage.</p>
 
-                <h3 className="font-semibold">🌐 Globalization and Its Impact</h3>
+                <h3>🌐 Globalization and Its Impact</h3>
                 <p><strong>Positive:</strong> Opens global markets, diaspora ties, cultural exchange.</p>
                 <p><strong>Negative:</strong> Risks cultural homogenization, competition with global influences.</p>
                 <p><strong>Response:</strong> Policies to protect traditions while leveraging opportunities.</p>
 
-                <h3 className="font-semibold">🔮 Future of Pakistani Culture and Society</h3>
+                <h3>🔮 Future of Pakistani Culture and Society</h3>
                 <ul className="list-disc list-inside">
                   <li>Inclusive education.</li>
                   <li>Preservation of heritage.</li>
@@ -213,9 +211,9 @@ export default function PakistanStudiesDashboard() {
 
           {activeWeek === 3 && (
             <div>
-              <h2 className="text-2xl sm:text-3xl font-bold text-green-900 mb-4">Week 3 — The Process of Constitution Making in Pakistan (1947–1954)</h2>
-              <section className="text-base sm:text-lg text-gray-700 space-y-4">
-                <h3 className="font-semibold">Governing Framework After Independence (1947)</h3>
+              <h2 className="text-3xl font-bold text-green-900 mb-4">Week 3 — The Process of Constitution Making in Pakistan (1947–1954)</h2>
+              <section className="text-lg text-gray-700 space-y-4">
+                <h3>Governing Framework After Independence (1947)</h3>
                 <p>At independence (14 August 1947), Pakistan had no constitution of its own.</p>
                 <p>The Government of India Act, 1935 (with necessary adaptations) was used as the interim constitution.</p>
                 <p>The Constituent Assembly served a dual role:</p>
@@ -225,38 +223,38 @@ export default function PakistanStudiesDashboard() {
                 </ul>
                 <p>The Governor-General had extensive powers (especially under Section 102, which allowed suspension of federalism in emergencies).</p>
 
-                <h3 className="font-semibold">Early Challenges to the New State</h3>
+                <h3>Early Challenges to the New State</h3>
                 <p><strong>Refugee Crisis (1947–48):</strong> Around 8–10 million refugees migrated to Pakistan from India, creating housing, employment, and food shortages.</p>
                 <p><strong>Administrative Weakness:</strong> Pakistan inherited very few trained bureaucrats and officers compared to India, with key administrative offices and infrastructure lacking.</p>
                 <p><strong>Financial Problems:</strong> Division of financial assets with India was delayed. Pakistan’s share of Rs. 750 million was withheld initially, creating economic strain.</p>
                 <p><strong>Territorial & Security Issues:</strong> Conflict in Kashmir (October 1947) drained resources. Princely states like Junagadh and Hyderabad created political disputes.</p>
                 <p><strong>Ethnic & Linguistic Tensions:</strong> West and East Pakistan had deep cultural and linguistic divides.</p>
 
-                <h3 className="font-semibold">Leadership and Political Structure</h3>
+                <h3>Leadership and Political Structure</h3>
                 <p><strong>Muhammad Ali Jinnah (1947–1948):</strong> First Governor-General of Pakistan, also President of the Constituent Assembly and head of Muslim League. Exercised immense authority beyond formal constitutional limits.</p>
                 <p><strong>Liaquat Ali Khan (1947–1951):</strong> First Prime Minister. Introduced key initiatives like the Objectives Resolution (1949). Later leaders included Khawaja Nazimuddin, Mohammad Ali Bogra, and Iskander Mirza who faced instability.</p>
 
-                <h3 className="font-semibold">Key Events in Constitution-Making</h3>
-                <h4 className="font-semibold">Objectives Resolution (12 March 1949)</h4>
+                <h3>Key Events in Constitution-Making</h3>
+                <h4>Objectives Resolution (12 March 1949)</h4>
                 <p>Presented by Liaquat Ali Khan. Declared that sovereignty belongs to Allah, Pakistan would be a democratic state guided by Islamic principles, and minority rights would be safeguarded. Became a foundational document and later part of Pakistan’s constitutions (1956, 1962, 1973).</p>
 
-                <h4 className="font-semibold">Assassination of Liaquat Ali Khan (16 October 1951)</h4>
+                <h4>Assassination of Liaquat Ali Khan (16 October 1951)</h4>
                 <p>Liaquat was assassinated in Rawalpindi during a public meeting, creating a major leadership crisis. Khawaja Nazimuddin succeeded as Prime Minister, but political instability grew.</p>
 
-                <h4 className="font-semibold">Language Movement (1952)</h4>
+                <h4>Language Movement (1952)</h4>
                 <p>Tensions in East Pakistan over Urdu being declared the sole national language. Protests in Dhaka (21 February 1952) led to police firing and deaths of several students, becoming a turning point in East Pakistan’s political consciousness.</p>
 
-                <h4 className="font-semibold">Anti-Ahmadiya Riots (1953)</h4>
-                <p>Religious agitation in Punjab demanding declaration of Ahmadis as non-Muslims. Riots led to breakdown of law and order in Lahore, with martial law briefly imposed (first use of military in politics).</p>
+                <h4>Anti-Ahmadiya Riots (1953)</h4>
+                <p>Religious agitation in Punjab demanding declaration of Ahmadis as non-Muslims. Riots led to breakdown of law and order in Lahore. Martial law was briefly imposed in Lahore (first use of military in politics).</p>
 
-                <h4 className="font-semibold">Bogra Formula (1953)</h4>
-                <p>Proposed by Prime Minister Mohammad Ali Bogra to balance East and West Pakistan in the legislature. Suggested a bicameral legislature with equal representation for East and West in the upper house but was not fully implemented.</p>
+                <h4>Bogra Formula (1953)</h4>
+                <p>Proposed by Prime Minister Mohammad Ali Bogra to balance East and West Pakistan in the legislature with a bicameral system and equal representation in the upper house; it aimed to solve representation issues but was never fully implemented.</p>
 
-                <h4 className="font-semibold">Dissolution of the First Constituent Assembly (24 October 1954)</h4>
-                <p>The Assembly tried to curtail powers of Governor-General Ghulam Mohammad. In retaliation, he dissolved the Assembly and imposed emergency. Maulvi Tamizuddin Khan challenged the dissolution; the Sindh Chief Court ruled in his favor but the Federal Court (Chief Justice Munir) upheld the Governor-General’s action.</p>
+                <h4>Dissolution of the First Constituent Assembly (24 October 1954)</h4>
+                <p>The Assembly tried to curtail powers of Governor-General Ghulam Mohammad. In retaliation, he dissolved the Assembly and imposed emergency. Maulvi Tamizuddin Khan, President of the Assembly, challenged the dissolution. The Sindh Chief Court ruled in his favor, but the Federal Court (Chief Justice Munir) upheld the Governor-General’s action, setting a precedent for validating extra-constitutional steps.</p>
 
-                <h3 className="font-semibold">Conclusion (1947–1954)</h3>
-                <p>Political instability, weak institutions, ethnic tensions, and authoritarian tendencies prevented consensus on a permanent constitution and set patterns that culminated in military intervention in 1958.</p>
+                <h3>Conclusion (1947–1954)</h3>
+                <p>Political instability, weak institutions, ethnic tensions, and authoritarian tendencies prevented consensus on a permanent constitution. These developments paved the way for military intervention and martial law in 1958.</p>
               </section>
 
               <div className="mt-6">
@@ -267,9 +265,50 @@ export default function PakistanStudiesDashboard() {
 
           {activeWeek === 4 && (
             <div>
-              <h2 className="text-2xl sm:text-3xl font-bold text-green-900 mb-4">Week 4: Theories of Origin of State</h2>
-              <section className="text-base sm:text-lg text-gray-700 space-y-4">
-                <p>Content will be added here.</p>
+              <h2 className="text-3xl font-bold text-green-900 mb-4">📝 Week 4: Origin of the State & Enlightenment Thought</h2>
+              <section className="text-lg text-gray-700 space-y-4">
+                <h3>Four Classical Theories on the Origin of the State</h3>
+                <p>These theories attempt to explain the creation and justification of the political body known as the state.</p>
+                <h4>1. Force Theory</h4>
+                <p><strong>Definition:</strong> The state arises when one person or group uses coercion (force) to dominate a population and claim territory.</p>
+                <p><strong>Mechanism:</strong> A political order established through conquest or war. The conqueror enforces rules.</p>
+                <p><strong>Example:</strong> Adolf Hitler’s control of Germany and subsequent authoritarian rule.</p>
+                <p><strong>Key Point:</strong> Legitimacy flows from domination and the capacity to enforce order.</p>
+
+                <h4>2. Evolutionary Theory</h4>
+                <p><strong>Definition:</strong> The state develops slowly and naturally out of early social units (family → clan → tribe).</p>
+                <p><strong>Mechanism:</strong> As groups grow and settle, leadership becomes formalized (chiefs/elders become rulers), and political institutions emerge organically.</p>
+                <p><strong>Example:</strong> Native American tribes forming larger political organizations with selected chiefs.</p>
+                <p><strong>Key Point:</strong> The state is the long-term result of natural social evolution.</p>
+
+                <h4>3. Divine Right Theory</h4>
+                <p><strong>Definition:</strong> Rulers are established by divine will; monarchs rule because God granted them absolute authority.</p>
+                <p><strong>Mechanism:</strong> Obedience to the ruler is considered obedience to God. Rulers are above earthly accountability.</p>
+                <p><strong>Historical Context:</strong> Supported monarchies across medieval and early modern Europe.</p>
+                <p><strong>Key Point:</strong> A challenge to the ruler is seen as a sacrilegious rebellion against divine order.</p>
+
+                <h4>4. Social Contract Theory</h4>
+                <p><strong>Definition:</strong> The state is formed when individuals consent to surrender some freedoms to a government in return for security and order.</p>
+                <p><strong>Mechanism:</strong> A mutual contractual relationship exists: the state's authority is legitimate only if it protects rights and serves the common good.</p>
+                <p><strong>Classical Proponents:</strong> Thomas Hobbes, John Locke, Jean-Jacques Rousseau.</p>
+                <p><strong>Key Point:</strong> The foundational theory for modern democratic and constitutional systems; emphasizes government by consent.</p>
+
+                <h3>Core Ideas of Enlightenment Political Thinkers</h3>
+                <h4>John Locke</h4>
+                <p><strong>Core Concept:</strong> Natural Rights & Limited Government</p>
+                <p><strong>Key Idea/Contribution:</strong> Government must protect unalienable rights (life, liberty, property) and is legitimate only by the consent of the governed.</p>
+
+                <h4>Jean-Jacques Rousseau</h4>
+                <p><strong>Core Concept:</strong> The General Will</p>
+                <p><strong>Key Idea/Contribution:</strong> Sovereignty belongs to the people (the "General Will"); favored direct democracy as the purest expression of collective freedom.</p>
+
+                <h4>Adam Smith</h4>
+                <p><strong>Core Concept:</strong> Property Protection & Free Markets</p>
+                <p><strong>Key Idea/Contribution:</strong> Argued for limited government interference in the economy; the state's role is to ensure property protection for prosperity via free markets.</p>
+
+                <h4>Montesquieu</h4>
+                <p><strong>Core Concept:</strong> Separation of Powers</p>
+                <p><strong>Key Idea/Contribution:</strong> Proposed dividing government authority into three branches (Legislative, Executive, Judicial) with a system of checks-and-balances to prevent tyranny.</p>
               </section>
 
               <div className="mt-6">
@@ -280,8 +319,8 @@ export default function PakistanStudiesDashboard() {
 
           {activeWeek === 5 && (
             <div>
-              <h2 className="text-2xl sm:text-3xl font-bold text-green-900 mb-4">Week 5: Democracy in Pakistan</h2>
-              <section className="text-base sm:text-lg text-gray-700 space-y-4">
+              <h2 className="text-3xl font-bold text-green-900 mb-4">Week 5: Democracy in Pakistan</h2>
+              <section className="text-lg text-gray-700">
                 <p>Content will be added here.</p>
               </section>
 
