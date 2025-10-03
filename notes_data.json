@@ -1,0 +1,264 @@
+{
+    "1": { 
+        "title": "Week 1: The Indus Valley Civilization", 
+        "content": "
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-4 mb-2 text-emerald-700\">The Indus Valley Civilization (IVC)</h3>
+            <p class=\"mb-4\">The IVC, or Harappan Civilization (c. 3300–1300 BCE), was South Asia's earliest urban culture, centered on the Indus River system in modern Pakistan.</p>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🗺️ Geography and Urban Centers</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Extent:</strong> Stretched from Baluchistan to Gujarat, relying on the Indus River and its tributaries.</li>
+                <li><strong>Harappa (Punjab):</strong> Critical northern urban center.</li>
+                <li><strong>Mohenjo-Daro (Sindh):</strong> Largest and best-preserved city, famed for its advanced municipal structures like the Great Bath.</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🏗️ Civic Life and Urban Planning</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Architecture:</strong> Cities used a meticulous <strong>Grid System</strong> and universally sized fired bricks.</li>
+                <li><strong>Dual Structure:</strong> Major cities featured a <strong>Citadel</strong> (administration/ritual) and a <strong>Lower Town</strong> (residential).</li>
+                <li><strong>Public Health:</strong> Possessed the world's earliest known advanced urban sanitation systems, including covered drains beneath the streets and private wells/toilets in most houses.</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">💼 Economy and Society</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Economic Base:</strong> Primarily agriculture (wheat and barley) and <strong>Craft Specialization</strong> (bead-making, bronze casting, seal carving).</li>
+                <li><strong>Trade:</strong> Used standardized steatite seals, weights, and measures. Maintained <strong>Long-Distance Trade</strong> with Mesopotamia and Iran.</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">📉 Theories of Decline (c. 1900–1300 BCE)</h3>
+            <p>The collapse was prolonged and attributed to a combination of factors:</p>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Environmental:</strong> Climate Variability and Drought (weakening of the monsoon) and Hydrological Shifts (tectonic changes to river courses).</li>
+                <li><strong>Infrastructure Strain:</strong> Repeated, major floods required perpetual maintenance, leading to economic drain and de-urbanization.</li>
+            </ul>
+        "
+    },
+    "2": { 
+        "title": "Week 2: Pakistani Culture and Society", 
+        "content": "
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-4 mb-2 text-emerald-700\">🌍 Understanding Culture</h3>
+            <ul class=\"list-disc list-inside space-y-1 ml-4\">
+                <li><strong>Definition:</strong> The learned, shared, and symbolic way of life of a people.</li>
+                <li><strong>Types:</strong>
+                    <ul class=\"list-circle list-inside ml-6 space-y-1\">
+                        <li>Material culture: Tangible elements (tools, architecture).</li>
+                        <li>Non-material culture: Intangible aspects (beliefs, values, customs).</li>
+                    </ul>
+                </li>
+                <li><strong>Norms:</strong> Folkways (everyday customs) and Mores (stronger norms tied to morality).</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🏞️ Layers of Pakistani Culture</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Influences:</strong> Indus Valley roots &rarr; Islamic era (8th century) &rarr; Mughal synthesis &rarr; British colonial changes.</li>
+                <li><strong>Cultural Blend:</strong> Indigenous traditions + Islamic framework + Persian/Central Asian + colonial legacies.</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🏘️ Pakistani Society: Features</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Social Structure:</strong> Strong extended family networks; dominant role of religion; regional diversity unified by national identity.</li>
+                <li><strong>Change:</strong> Urbanization and modern education are transforming traditional patterns.</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🗣️ Linguistic Heritage</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>National Language:</strong> Urdu (lingua franca, rooted in Persian, Arabic, and local dialects).</li>
+                <li><strong>Regional Languages:</strong> Punjabi, Sindhi, Pashto, Balochi, Saraiki, Hindko (preserve local identity).</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🎉 Traditions and Customs</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Rituals:</strong> Life-cycle rituals (birth, marriage, death), Islamic festivals (Eid), and regional festivals.</li>
+                <li><strong>Dress:</strong> Shalwar kameez (national dress).</li>
+                <li><strong>Core Values:</strong> Hospitality, communal meals, and ritual observances.</li>
+            </ul>
+        "
+    },
+    "3": { 
+        "title": "Week 3: The Process of Constitution Making (1947–1954)", 
+        "content": "
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-4 mb-2 text-emerald-700\">📜 Governing Framework After Independence</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Interim Constitution:</strong> The <strong>Government of India Act, 1935</strong> (adapted).</li>
+                <li><strong>Constituent Assembly:</strong> Served a dual role: framing the constitution and acting as the central legislature.</li>
+                <li><strong>Leaders:</strong> <strong>Muhammad Ali Jinnah</strong> (first Governor-General, 1947–1948) and <strong>Liaquat Ali Khan</strong> (first Prime Minister, 1947–1951).</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🚨 Early Challenges (1947–1954)</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Refugee Crisis:</strong> Massive migration (8–10 million) created acute shortages.</li>
+                <li><strong>Administrative Weakness:</strong> Lack of trained bureaucrats and infrastructure.</li>
+                <li><strong>Financial Problems:</strong> Delayed division of assets with India (Rs. 750 million share withheld).</li>
+                <li><strong>Territorial & Security:</strong> Conflict in Kashmir (Oct 1947).</li>
+                <li><strong>Political Instability:</strong> 7 Prime Ministers and 4 Governor Generals between 1947 and 1956.</li>
+            </ul>
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🔑 Key Events in Constitution-Making</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Objectives Resolution (12 March 1949):</strong> Declared <strong>sovereignty belongs to Allah</strong> and Pakistan would be a democratic state guided by Islamic principles; became a foundational document.</li>
+                <li><strong>Assassination of Liaquat Ali Khan (16 October 1951):</strong> Created a major leadership crisis.</li>
+                <li><strong>Language Movement (1952):</strong> Tensions over Urdu being the sole national language; protests in Dhaka (21 Feb 1952) became a turning point in East Pakistan’s consciousness.</li>
+                <li><strong>Anti-Ahmadiya Riots (1953):</strong> Led to the brief imposition of <strong>Martial Law in Lahore</strong> (first use of military in politics).</li>
+                <li><strong>Dissolution of First Constituent Assembly (24 October 1954):</strong> Governor-General Ghulam Mohammad dissolved the assembly. The Federal Court upheld the action(<strong>Doctrine of Necessity</strong>), setting a precedent for validating extra-constitutional steps.</li>
+            </ul>
+        "
+    },
+    "4": { 
+        "title": "Week 4: Origin of the State & Enlightenment Thought", 
+        "content": "
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-4 mb-2 text-emerald-700\">🏛️ Four Classical Theories on the Origin of the State</h3>
+            <ul class=\"list-disc list-inside space-y-3 ml-4\">
+                <li>
+                    <strong>Force Theory:</strong> State arises when one group uses coercion/conquest to dominate a population. 
+                    <span class=\"block text-sm text-gray-500 ml-4\">($\\text{Key Point: Legitimacy flows from domination.}$)</span>
+                </li>
+                <li>
+                    <strong>Evolutionary Theory:</strong> State develops slowly and naturally out of early social units (family $\\to$ clan $\\to$ tribe). 
+                    <span class=\"block text-sm text-gray-500 ml-4\">($\\text{Key Point: Result of natural social evolution.}$)</span>
+                </li>
+                <li>
+                    <strong>Divine Right Theory:</strong> Rulers are established by divine will; obedience to the ruler is obedience to God. 
+                    <span class=\"block text-sm text-gray-500 ml-4\">($\\text{Key Point: Challenge to ruler is sacrilegious.}$)</span>
+                </li>
+                <li>
+                    <strong>Social Contract Theory:
+                    </strong> State formed when individuals consent to surrender some freedoms in return for security and order. 
+                    <span class=\"block class=\"text-sm text-gray-500 ml-4\">($\\text{Key Point: Foundational theory for modern democracy; government by consent.}$)</span>
+                </li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">💡 Core Ideas of Enlightenment Political Thinkers</h3>
+            
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">John Locke:</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Core Concept:</strong> Natural Rights (Life, Liberty, Property) $\\text{ & }$ Limited Government.</li>
+                <li><strong>Contribution:</strong> Government must protect rights and is legitimate only by consent of the governed (Two contracts: People-People, People-Government).</li>
+            </ul>
+
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">Jean-Jacques Rousseau:</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Core Concept:</strong> The General Will (Sovereignty belongs to the collective people).</li>
+                <li><strong>Contribution:</strong> Favored direct democracy and stressed that every person must protect the rights of others.</li>
+            </ul>
+
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">Montesquieu:</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Core Concept:</strong> Separation of Powers.</li>
+                <li><strong>Contribution:</strong> Proposed dividing authority into three branches (Legislative, Executive, Judicial) with checks-and-balances to prevent tyranny.</li>
+            </ul>
+
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">Thomas Hobbes (Contrasting View):</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Core Concept:</strong> Human nature is brutal and selfish (needs control).</li>
+                <li><strong>Contribution:</strong> People transfer all rights to a single Sovereign (Monarch) who is not accountable to the public (Monarchy system).</li>
+            </ul>
+        "
+    },
+    "5": { 
+        "title": "Week 5: Democracy in Pakistan", 
+        "content": "
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-4 mb-2 text-emerald-700\">⚖️ Introduction: What is Democracy?</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Definition:</strong> Government where decision-making is vested in the people (right to choose leaders).</li>
+                <li><strong>Core Principles:</strong> <strong>Political Equality</strong>, <strong>Constitutionalism $\\text{ & }$ Rule of Law</strong>, <strong>Accountability</strong>, and <strong>Protection of Rights</strong>.</li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🗳️ Types of Democratic Systems</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Direct Democracy:</strong> Citizens participate directly (e.g., referendums).</li>
+                <li><strong>Representative (Indirect) Democracy:</strong> Public chooses representatives through elections (most common).</li>
+                <li><strong>Social Democracy:</strong> Emphasis on welfare and equality (welfare state concept); political rights must be linked to social welfare for meaningful participation.</li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">📜 Historical Overview: Key Phases</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Early Years (1947–56):</strong> Jinnah, Liaquat; Objectives Resolution (1949); first Constitution (1956).</li>
+                <li><strong>First Martial Law (1958–1969):</strong> Ayub Khan abrogates constitution; introduces 1962 Constitution (presidential) and <strong>Basic Democracy (BD) System</strong> (indirect election/decentralization).</li>
+                <li><strong>Bhutto Era to Zia (1970–1988):</strong> <strong>1973 Constitution</strong> (Parliamentary); 1977 Coup by General Zia-ul-Haq (military Islamization).</li>
+                <li><strong>Alternating Rule (1988–1999):</strong> Instability between PPP/PML; ended by 1999 Coup (Musharraf).</li>
+                <li><strong>Anti-Corruption Tools:</strong> PODO (Public Officer Disqualification Order) and EBDO (Elective Bodies Disqualification Order).</li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">❌ Reasons for the Failure of Democracy (Concise Analysis)</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Weak Political Parties:</strong> Built around personalities/families rather than ideology or internal democracy.</li>
+                <li><strong>Absence of a Vibrant Civil Society:</strong> Independent unions and associations are weak or suppressed.</li>
+                <li><strong>Lack of Social Democracy:</strong> Political rights lack accompanying welfare, land reform, or redistribution.</li>
+                <li><strong>Elitist Politics/Oligarchy:</strong> Dominated by landlords, industrialists, and powerful families (patronage/feudalism).</li>
+                <li><strong>Bureaucratic and Military Influence:</strong> Military sees itself as the guardian of the state; repeated coups undermine elected authority.</li>
+                <li><strong>Judicialization of Politics:</strong> Courts validated extra-constitutional acts via the <strong>Doctrine of Necessity</strong>, weakening legal safeguards.</li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">✅ The Future: Needs for Durable Democracy</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Constitutional Supremacy:</strong> All institutions must operate strictly within constitutional limits.</li>
+                <li><strong>Strengthening Parties:</strong> Internal democracy and meritocratic leadership.</li>
+                <li><strong>Social Democracy Measures:</strong> Land reform, progressive taxation, and better public services.</li>
+                <li><strong>Civilian Control:</strong> Clear limits on military's political role and bureaucratic accountability.</li>
+            </ul>
+        "
+    },
+    "6": { "title": "Week 6: Governance and Politics (Mid 1 Era!)", "content": "<p class=\"text-xl md:text-2xl\">Notes for Week 6 are pending completion.</p>" },
+    "7": { 
+        "title": "Week 7: Federalism in Pakistan", 
+        "content": "
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-4 mb-2 text-emerald-700\">⚖️ Centralization vs. Decentralization</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Centric (Centralized):</strong> Capital has maximum authority.</li>
+                <li><strong>Decentric (Decentralized):</strong> Power is properly distributed (provinces have autonomy).</li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🤝 Essential Elements of Federalism</h3>
+            
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">Division of Legislative Power:</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Federal List:</strong> Exclusive central powers (Defense, Currency).</li>
+                <li><strong>Provincial List:</strong> Exclusive provincial powers (Education, Health).</li>
+                <li><strong>18th Constitutional Amendment (2010):</strong> Abolished the Mutual/Concurrent List, transferring $\\sim47$ subjects to provinces, granting more power and autonomy.</li>
+            </ul>
+            
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">Written and Semi-Rigid Constitution:</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li>Requires a written constitution to define boundaries.</li>
+                <li>Amendable, but requires a $2/3$ majority vote in both the Senate and National Assembly.</li>
+            </ul>
+            
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">Bicameralism (Two Houses):</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Upper House (Senate):</strong> Seats based on equality among provinces.</li>
+                <li><strong>Lower House (National Assembly - NA):</strong> Seats based on population.</li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">💰 Financial Federalism and Budget</h3>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Budget Division:</strong> Approximately $60\%$ to provinces, $40\%$ to Centre (via NFC Award).</li>
+                <li><strong>Power Flow Structure (Normal):</strong> Centre $\\to$ Provincial $\\to$ Local Government.</li>
+                <li><strong>Power Flow Structure (During Martial Law):</strong> Centre $\\to$ Local Government (bypassing provinces).</li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">📍 Demands for New Provinces and Regional Conflicts</h3>
+            <p>The core issue is administrative and economic injustice from unequal resource distribution.</p>
+
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">Seraikistan (Southern Punjab):</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Demand:</strong> Separate province for Seraiki population; a move to revive the former Bahawalpur Province.</li>
+                <li><strong>Conflict:</strong> Opposed by Northern Punjab, Balochistan Assembly, and Sindhi Nationalists (fearing precedent).</li>
+            </ul>
+
+            <h4 class=\"text-lg md:text-xl font-medium mt-4 mb-1 text-emerald-600\">Muhajir/Urban Sindh (Karachi $\\text{+}$ Hyderabad):</h4>
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Issue:</strong> Sindh's budget concentrated in urban areas.</li>
+                <li><strong>Political Action:</strong> MQM proposed new provinces (2012), vehemently opposed by Sindhi nationalists.</li>
+            </ul>
+
+            <ul class=\"list-disc list-inside space-y-2 ml-4\">
+                <li><strong>Hazarawal (KPK):</strong> Demand for separate province based on linguistic differences (Hindko speakers).</li>
+                <li><strong>Afghania or Pakhtoonistan (Northern Balochistan):
+                    </strong> Demand for a Pakhtun-majority province/merger with KPK.</li>
+            </ul>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">🏛️ Role of Mainstream Political Parties in Province Creation</h3>
+            <p>PML-N/PPP/PML-Q: Used the demand for Seraikistan and the restoration of Bahawalpur primarily for political leverage and election narratives, rather than achieving consensus-based constitutional change. Demands faced strong rejection in relevant provincial assemblies (e.g., MQM demands in KP Assembly).</p>
+
+            <h3 class=\"text-xl md:text-2xl font-semibold mt-6 mb-2 text-emerald-700\">💡 Conclusion: The Challenge of New Provinces (Exam-Ready)</h3>
+            <p>The creation of new provinces is a highly politicized challenge to Pakistan's federation. Supporters argue it ensures equitable resource distribution and empowers ethnic identities, strengthening democracy. Opponents fear it will 'open Pandora's box' regarding representation and further instability. The consensus of all stakeholders is required for a rational solution.</p>
+        "
+    },
+    "8": { "title": "Week 8: Post-Midterm Topics", "content": "<p class=\"text-xl md:text-2xl\">Notes for Week 8 are pending completion. Chill bro!</p>" },
+    "9": { "title": "Week 9: Post-Midterm Topics", "content": "<p class=\"text-xl md:text-2xl\">Notes for Week 9 are pending completion. Chill bro!</p>" },
+    "10": { "title": "Week 10: Post-Midterm Topics", "content": "<p class=\"text-xl md:text-2xl\">Notes for Week 10 are pending completion. Chill bro!</p>" },
+    "11": { "title": "Week 11: Post-Midterm Topics", "content": "<p class=\"text-xl md:text-2xl\">Notes for Week 11 are pending completion. Chill bro!</p>" },
+    "12": { "title": "Week 12: Post-Midterm Topics", "content": "<p class=\"text-xl md:text-2xl\">Notes for Week 12 are pending completion. Chill bro!</p>" },
+    "13": { "title": "Week 13: Post-Midterm Topics", "content": "<p class=\"text-xl md:text-2xl\">Notes for Week 13 are pending completion. Chill bro!</p>" },
+    "14": { "title": "Week 14: Final Review", "content": "<p class=\"text-xl md:text-2xl\">Notes for Week 14 are pending completion. Chill bro!</p>" }
+}
